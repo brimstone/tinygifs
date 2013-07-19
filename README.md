@@ -1,4 +1,4 @@
-# Tiny Gifs!
+# [Tiny Gifs!](http://brimstone.github.io/tinygifs/)
 This is a gallery of tiny gifs that can be base64 encoded into your css or html and used as tiling backgrounds.
 
 ## Goals
